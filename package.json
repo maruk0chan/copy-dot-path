@@ -1,6 +1,6 @@
 {
-  "name": "js-dot-path",
-  "displayName": "js-dot-path",
+  "name": "copy-dot-path",
+  "displayName": "copy-dot-path",
   "description": "An VSC extension aims to easily get the dot path in any javascript/typescript files.",
   "version": "0.0.1",
   "engines": {
@@ -14,7 +14,7 @@
   "contributes": {
     "commands": [
       {
-        "command": "js-dot-path.getDotNotationPath",
+        "command": "copy-dot-path.getDotNotationPath",
         "title": "Get Dot Notation Path"
       }
     ]
