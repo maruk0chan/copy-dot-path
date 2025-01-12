@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "js-dot-path.helloWorld",
-        "title": "Hello World"
+        "command": "js-dot-path.getJavascriptDotNotationPath",
+        "title": "Get Javascript Dot Notation Path"
       }
     ]
   },
