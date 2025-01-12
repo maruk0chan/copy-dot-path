@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "js-dot-path.getJavascriptDotNotationPath",
-        "title": "Get Javascript Dot Notation Path"
+        "command": "js-dot-path.getDotNotationPath",
+        "title": "Get Dot Notation Path"
       }
     ]
   },
